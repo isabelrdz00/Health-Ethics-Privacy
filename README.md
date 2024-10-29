@@ -1,4 +1,4 @@
-# Health Ethics and Privacy Portfolio
+# Health Ethics and Privacy Projects
 
 ## Overview
 This repository showcases my work on key ethical and privacy issues within healthcare. The assignments cover complex cases that highlight the need for ethical decision-making, patient privacy, and the importance of professionalism in healthcare. These were completed as part of the **Health Ethics and Privacy** course at Algonquin College, and they provide insight into my understanding of healthcare ethics and policy.
